@@ -4,14 +4,14 @@ tasks:
   run-back:
     desc: "Run the backend with Uvicorn"
     cmds:
-      - "cd /backend && uvicorn api.app:main --reload"
+      - "cd ./backend && uvicorn api.app:main --reload"
   
   run-front:
     desc: "Run the frontend with npm"
     cmds:
-      - "cd /frontend && npm run dev"
+      - "cd ./frontend && npm run dev"
   
   run-docs:
     desc: "Run the documentation live with Mintlify"
     cmds:
-      - "cd /docs && mintlify dev"
+      - "cd ./docs && mintlify dev"
