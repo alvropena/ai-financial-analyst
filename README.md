@@ -17,11 +17,11 @@ Follow these steps to set up the project locally, ensuring all dependencies are 
 Explore examples and commands to start using the AI Financial Analyst for analyzing financial data and generating insights.
 
 ## Contributing
-We welcome contributions! Please follow the guidelines outlined for submitting issues, features, and pull requests.
+We welcome contributions! Please follow the guidelines outlined for submitting issues, features, and pull requests.  
 This repository pulls all financial information from [https://financialdatasets.ai](https://financialdatasets.ai).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions or inquiries, please reach out at [me@alvropena.com](mailto:me@alvropena.com).
@@ -32,4 +32,4 @@ For questions or inquiries, please reach out at [me@alvropena.com](mailto:me@alv
 - Sebastián Zapata
 
 ## Acknowledgments
-Special thanks to all who provided guidance, tools, and inspiration for this project.
+Special thanks to everyone who provided guidance, tools, and inspiration for this project.
